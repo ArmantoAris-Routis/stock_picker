@@ -1,0 +1,1 @@
+Taking an hypothetical array of stock prices, one for each hypothetical day(index). It should return a pair of days representing the best day to buy and the best day to sell. Days start at 0.

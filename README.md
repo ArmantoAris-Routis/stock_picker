@@ -2,12 +2,6 @@
 
 ## THE ODIN PROJECT/Ruby Programming - PROJECT: STOCK PICKER
 
-
-### About this project
-### Features
-### Requirements
-### Technical Information
-
 ## About
 ###### Taking an hypothetical array of stock prices, one for each hypothetical day(index). It should return a pair of days representing the best day to buy and the best day to sell. Days start at 0.
 
@@ -19,6 +13,6 @@
 * ###### Ruby
 
 ## Technical Information
-### To run the site on your local machine
+#### To run the site on your local machine
 
 A ruby related enviroment will be needed in order to properly run this program in your machine. Otherwise you could visit this [link](https://repl.it/@ArmantoRoutsis/Ruby-Programming-PROJECT-STOCK-PICKER#main.rb) to see this program and excecute it online.
